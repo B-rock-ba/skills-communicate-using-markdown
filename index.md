@@ -13,3 +13,8 @@ This is a code block.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] go to home
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
